@@ -6,6 +6,8 @@ layout: custom
 
 &emsp;&emsp;This project focusses on applied computer science – I will use computer science techniques and methods to perform clinical analytics tasks. The main aim of this project is to develop and implement a system for online analytics of ICU data that can be used to predict complications in intensive care patients. My will work involve the design and implementation of a system that will perform summary analysis of MIMIC III data and a case study that will focus on prediction of sepsis. The project will involve data cleaning, interface design, summary analytics, and a machine learning case study (prediction of sepsis).
 
+![Branching](https://raw.githubusercontent.com/zeo513/HDMProject/master/docs/assets/schedule.jpeg)
+
 ---
 
 # Project Schedule
@@ -61,8 +63,8 @@ layout: custom
 ---
 # Project Proposal
 
--<center><a href="https://github.com/zeo513/HDMProject/raw/master/docs/Jinghan LIU_16518804_Project_Proposal.pdf" target="view_window">View Raw Image</a ></center><br>
 
+<embed src="https://github.com/zeo513/HDMProject/raw/master/docs/Jinghan LIU_16518804_Project_Proposal.pdf" width="100%" height="1000px">
 ---
 # Project Poster
 
