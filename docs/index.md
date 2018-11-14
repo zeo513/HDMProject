@@ -63,8 +63,7 @@ layout: custom
 ---
 # Project Proposal
 
-
-<embed src="https://github.com/zeo513/HDMProject/raw/master/docs/Jinghan LIU_16518804_Project_Proposal.pdf" width="100%" height="1000px">
+<embed src="Jinghan LIU_16518804_Project_Proposal.pdf" width="100%" height="1000px">
 ---
 # Project Poster
 
