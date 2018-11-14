@@ -61,12 +61,13 @@ layout: custom
 ---
 # Project Proposal
 
-- <a href="https://github.com/zeo513/HDMProject/raw/master/docs/Jinghan LIU_16518804_Project_Proposal.pdf">Proposal</a>
+-<center><a href="https://github.com/zeo513/HDMProject/raw/master/docs/Jinghan LIU_16518804_Project_Proposal.pdf" target="view_window">View Raw Image</a ></center><br>
 
 ---
 # Project Poster
 
-- <a href="https://github.com/zeo513/HDMProject/raw/master/docs/Health-Institute-Zoe.pdf">Poster</a>
+<center><a href="https://github.com/zeo513/HDMProject/raw/master/docs/Health-Institute-Zoe.pdf" target="view_window">View Raw Image</a ></center><br>
+
 
 
 ---
