@@ -22,10 +22,10 @@ layout: custom
 
 # System Design
 
-![Branching](https://raw.githubusercontent.com/zeo513/HDMProject/master/docs/assets/softwaredesign)
+![Branching](https://raw.githubusercontent.com/zeo513/HDMProject/master/docs/assets/softwaredesign.png)
 <center>Figure 1.Software Design</center><br>
 
-![Branching](https://raw.githubusercontent.com/zeo513/HDMProject/master/docs/assets/icu-ehr-system)
+![Branching](https://raw.githubusercontent.com/zeo513/HDMProject/master/docs/assets/icu-ehr-system.png)
 <center>Figure 2.ICU EHR System</center><br>
 
 ---
@@ -43,7 +43,7 @@ layout: custom
 
 ---
 
-# Project Plan
+# Reference
 
 1. Häyrinen K, Saranto K, Nykänen P. Definition, structure, content, use and impacts of electronic health records: a review of the research literature. International journal of medical informatics. 2008 May 1;77(5):291-304.
 2. Sanchez-Pinto LN, Luo Y, Churpek MM. Big Data and Data Science in Critical Care. Chest. 2018 May 9.
