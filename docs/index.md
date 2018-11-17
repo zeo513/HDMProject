@@ -14,16 +14,17 @@ layout: custom
 
 <span id="cg">Local Time</span>
 <script>setInterval("cg.innerHTML=new Date().toLocaleString()",1000);</script><br>
-No Event Available At Present.
+14/11/2018 Group Meeting
+16/11/2018 Individual Meeting
 
 ---
 
 # System Design
 
-![Branching](https://raw.githubusercontent.com/zeo513/HDMProject/master/docs/assets/softwaredesign.png)
+![Branching](https://raw.githubusercontent.com/zeo513/HDMProject/master/docs/assets/3.png)
 <center>Figure 1.Software Design</center><br>
 
-![Branching](https://raw.githubusercontent.com/zeo513/HDMProject/master/docs/assets/icu-ehr-system.png)
+![Branching](https://raw.githubusercontent.com/zeo513/HDMProject/master/docs/assets/2.png)
 <center>Figure 2.ICU EHR System</center><br>
 
 ---
@@ -33,13 +34,14 @@ No Event Available At Present.
 ![Branching](https://raw.githubusercontent.com/zeo513/HDMProject/master/docs/assets/schedule.jpeg)
 
 ---
+# Project Poster
+
+<embed src="Health-Institute-Zoe.pdf" width="100%" height="650px">
+
+---
 # Project Proposal
 
 <embed src="Jinghan LIU_16518804_Project_Proposal.pdf" width="100%" height="1000px">
----
-# Project Poster
-
-<embed src="Health-Institute-Zoe.pdf" width="100%" height="1000px">
 	
 ---
 
