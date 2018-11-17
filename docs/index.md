@@ -3,7 +3,7 @@ layout: custom
 
 ---
 
-##Home page
+#Home page
 
 ---
 
