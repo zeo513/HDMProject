@@ -6,19 +6,15 @@ layout: custom
 
 &emsp;&emsp;This project focusses on applied computer science – I will use computer science techniques and methods to perform clinical analytics tasks. The main aim of this project is to develop and implement a system for online analytics of ICU data that can be used to predict complications in intensive care patients. My will work involve the design and implementation of a system that will perform summary analysis of MIMIC III data and a case study that will focus on prediction of sepsis. The project will involve data cleaning, interface design, summary analytics, and a machine learning case study (prediction of sepsis).
 
-![Branching](https://raw.githubusercontent.com/zeo513/HDMProject/master/docs/assets/schedule.jpeg)
+![Branching](https://raw.githubusercontent.com/zeo513/HDMProject/master/docs/assets/1.png)
 
 ---
 
-# Project Schedule
+# Latest Progress
 
-![Branching](https://raw.githubusercontent.com/zeo513/HDMProject/master/docs/assets/schedule.jpeg)
-
----
-
-# Project Plan
-
-&emsp;&emsp;Software development will utilize Waterfall model of software development [13]. The waterfall model is suitable because this work will result in a working prototype. Feature extraction and detecting diseased cells will use machine learning using Python environment, taking advantage of python libraries and the existing code for the in-house single cell database management. The main priority of this project is functional software prototype that will effectively deal with analytics of highly dimensional noisy data. The theoretical technological and engineering aspects of the software development will be considered and deployed as a secondary priority in this project.
+<span id="cg">Local Time</span>
+<script>setInterval("cg.innerHTML=new Date().toLocaleString()",1000);</script><br>
+No Event Available At Present.
 
 ---
 
@@ -30,6 +26,21 @@ layout: custom
 ![Branching](https://raw.githubusercontent.com/zeo513/HDMProject/master/docs/assets/icu-ehr-system.png)
 <center>Figure 2.ICU EHR System</center><br>
 
+---
+
+# Project Schedule
+
+![Branching](https://raw.githubusercontent.com/zeo513/HDMProject/master/docs/assets/schedule.jpeg)
+
+---
+# Project Proposal
+
+<embed src="Jinghan LIU_16518804_Project_Proposal.pdf" width="100%" height="1000px">
+---
+# Project Poster
+
+<embed src="Health-Institute-Zoe.pdf" width="100%" height="1000px">
+	
 ---
 
 # Project executor
@@ -60,21 +71,5 @@ layout: custom
 11. Johnson AE, Pollard TJ, Shen L, Li-wei HL, Feng M, Ghassemi M, Moody B, Szolovits P, Celi LA, Mark RG. MIMIC-III, a freely accessible critical care database. Scientific data. 2016 May 24;3:160035.
 12. Petersen K, Wohlin C, Baca D. The waterfall model in large-scale development. In International Conference on Product-Focused Software Process Improvement 2009 Jun 15 (pp. 386-400). Springer, Berlin, Heidelberg.
 
----
-# Project Proposal
-
-<embed src="Jinghan LIU_16518804_Project_Proposal.pdf" width="100%" height="1000px">
----
-# Project Poster
-
-<center><a href="https://github.com/zeo513/HDMProject/raw/master/docs/Health-Institute-Zoe.pdf" target="view_window">View Raw Image</a ></center><br>
 
 
-
----
-
-# Latest Progress
-
-<span id="cg">Local Time</span>
-<script>setInterval("cg.innerHTML=new Date().toLocaleString()",1000);</script><br>
-No Event Available At Present.
