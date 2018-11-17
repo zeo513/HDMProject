@@ -1,5 +1,10 @@
 ---
 layout: custom
+
+---
+
+##Home page
+
 ---
 
 # Project Overview
@@ -14,8 +19,8 @@ layout: custom
 
 <span id="cg">Local Time</span>
 <script>setInterval("cg.innerHTML=new Date().toLocaleString()",1000);</script><br>
-14/11/2018 Group Meeting
-16/11/2018 Individual Meeting
+14/11/2018 Group Meeting.
+16/11/2018 Individual Meeting.
 
 ---
 
